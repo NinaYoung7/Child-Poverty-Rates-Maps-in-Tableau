@@ -13,4 +13,4 @@ The project is to build a Tableau dashboard to visualize child poverty rates acr
 
 ## Data
 
-Download the Children in Poverty in the U.S. [https://datacenter.kidscount.org/data/tables/43-children-in-poverty#detailed/1/any/false/2048,1729,37,871,870,573,869,36,868,867/any/321,322]. from [the Kids Count Data Center](https://datacenter.kidscount.org/)
+Download [the Children in Poverty in the U.S. dataset](https://datacenter.kidscount.org/data/tables/43-children-in-poverty#detailed/1/any/false/2048,1729,37,871,870,573,869,36,868,867/any/321,322) from [the Kids Count Data Center](https://datacenter.kidscount.org/)
