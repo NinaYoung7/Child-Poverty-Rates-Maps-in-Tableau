@@ -1,4 +1,4 @@
-# Child-Poverty-Rates-Maps-in-Tableau
+# Visualizing Data on Maps in Tableau - Child Poverty Rates
 
 Submitted by: **NING YANG**
 
